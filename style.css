@@ -1,0 +1,91 @@
+body{
+  background-color:rgb(185,185,185);
+  color:rgb(120,120,120);
+  font-family: Arial;
+  font-size: 12pt;
+}
+
+.full-page{
+  position:relative;
+  display:block;
+  height:1000px;
+  width:1020px;
+  background-color:rgb(185,185,185);
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.redline{
+  position:absolute;
+  height:100%;
+  width:110px;
+  background-color: rgb(222,39,0);  
+}
+
+img{
+  position:absolute;
+  top:100px;
+  left:0px;
+}
+article{
+  position:absolute;
+  background-color:rgb(233,233,233);
+  width:750px;
+  text-align:justify;
+  top:55px;
+  left:270px
+}
+h2{
+  font-size:12pt;
+  text-transform:uppercase;
+}
+
+p{
+  text-indent: 20px;
+}
+
+p,h2,ul{
+  margin:10px;
+}
+
+h1{
+  position:absolute;
+  text-transform:uppercase;
+  top:15px;
+  color:rgb(150,150,150);
+}
+a{
+  text-decoration: none;
+}
+
+.education{
+  width:600px;
+  position:absolute;
+  text-align:justify;
+  background-color:rgb(233,233,233);
+  left:270px;
+  top:290px;
+  text-decoration: none;
+ 
+}
+
+.english{
+  position:absolute;
+  width: 400px;
+  background-color:rgb(233,233,233);
+  left:270px;
+  top:390px;
+    
+}
+
+.contacts{
+  
+  position:absolute;
+  background-color:rgb(233,233,233);
+  left:270px;
+  top: 470px;
+}
+
+.contacts a{
+  color:rgb(100,100,100);
+}
