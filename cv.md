@@ -1,4 +1,4 @@
-
+![alt text](https://avatars.githubusercontent.com/u/45191288?v=4)
 1. # Mikita Rudnik (or Nikita)
 
 2.  - **email:** mikita.rudnik@mail.ru
